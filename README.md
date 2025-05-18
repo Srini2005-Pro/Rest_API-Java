@@ -12,8 +12,8 @@ A complete RESTful API implementation using Spring Boot with JWT authentication,
 
 ## Technologies
 
-- Java 11
-- Spring Boot 2.5.4
+- Java 17
+- Spring Boot 2.7.14
 - Spring Security
 - Spring Data JPA
 - JWT (JSON Web Tokens)
@@ -24,7 +24,7 @@ A complete RESTful API implementation using Spring Boot with JWT authentication,
 
 ### Prerequisites
 
-- JDK 11 or higher
+- JDK 17 or higher
 - Maven 3.6+ or Gradle
 - Git
 
